@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+
+.logo {
+  width: 10%;
+  border-radius: 50%;
+}
+.falseStream {
+  background-color: #C0C0C0;
+  padding: 10px 5px 5px 10px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 5px;
+}
+.trueStream {
+  background-color: #98FB98;
+  padding: 10px 5px 5px 10px;
+  border: 1px solid green;
+  border-radius: 5px;
+  margin: 5px;
+}
+.doesNotExist {
+  background-color: #454545;
+  color: #ffffff;
+  padding: 25px 5px 25px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+}
+body {
+  margin: 20px 0px 20px 0px;
+  background-color: #551A8B;
+  
+}
+#title {
+  padding: 0px 0px 20px 0px;
+  border-bottom: 5px solid #551A8B;
+  font-family: 'Bungee Inline', cursive;
+}
+.twitchEncase {
+  background-color: #ffffff;
+  padding: 0px 0px 20px 0px;
+  border-radius: 5px;
+}
+#streamersList {
+  padding: 10px 10px 0px 10px;
+}
